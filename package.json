@@ -1,0 +1,35 @@
+{
+  "name": "git-prefix-tag",
+  "version": "0.1.0",
+  "description": "get git tags with prefix",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toxic-johann/git-prefix-tag.git"
+  },
+  "keywords": [
+    "git",
+    "tag",
+    "prefix"
+  ],
+  "author": "toxic-johann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toxic-johann/git-prefix-tag/issues"
+  },
+  "homepage": "https://github.com/toxic-johann/git-prefix-tag#readme",
+  "dependencies": {
+    "semver": "^5.5.0",
+    "shelljs": "^0.8.1",
+    "toxic-predicate-functions": "^0.1.5"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-egg": "^6.0.0",
+    "eslint-plugin-jest": "^21.7.0",
+    "jest": "^22.1.4"
+  }
+}
