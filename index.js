@@ -1,6 +1,6 @@
 const shell = require('shelljs');
 const semver = require('semver');
-const { isFunction, isRegExp, isString } = require('toxic-predicate-functions');
+const { isFunction, isRegExp, isString, isEmpty } = require('toxic-predicate-functions');
 
 class Helper {
   getPrefix(rawPrefix) {
@@ -51,9 +51,38 @@ class Helper {
   } = {}) {
     const prefix = this.getPrefix(rawPrefix);
 
-    const tagsList = this.semverMap[prefix] || [];
+    let tagsList = [];
 
-    const obj = tagsList[tagsList.length - 1];
+    const semverMap = this.semverMap;
+
+    if (isString(prefix) && !isEmpty(semverMap[prefix])) {
+      tagsList = semverMap[prefix];
+    }
+
+    if (isRegExp(prefix)) {
+      for (const key in semverMap) {
+        if (prefix.test(key)) {
+          tagsList = semverMap[key];
+          break;
+        }
+      }
+    }
+
+    const obj = tagsList[tagsList.length - 1] || {
+      semver: {
+        raw: '',
+        major: 0,
+        minor: 0,
+        patch: 0,
+        prerelease: [],
+        build: [],
+        version: '',
+      },
+      wholeVersion: '',
+      prefix: '',
+      tag: '',
+      version: '',
+    };
 
     if (semver) return obj.semver;
     else if (wholeVersion) return obj.wholeVersion;

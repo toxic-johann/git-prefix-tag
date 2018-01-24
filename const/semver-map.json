@@ -1694,9 +1694,9 @@
         "build": [],
         "version": "0.2.6"
       },
-      "wholeVersion": "0.2.6",
+      "wholeVersion": "0.2.6.9.10",
       "prefix": "test-v",
-      "tag": "test-v0.2.6",
+      "tag": "test-v0.2.6.9.10",
       "version": "0.2.6"
     },
     {
@@ -1713,21 +1713,6 @@
       "prefix": "test-v",
       "tag": "test-v0.2.7",
       "version": "0.2.7"
-    },
-    {
-      "semver": {
-        "raw": "0.2.8",
-        "major": 0,
-        "minor": 2,
-        "patch": 8,
-        "prerelease": [],
-        "build": [],
-        "version": "0.2.8"
-      },
-      "wholeVersion": "0.2.8",
-      "prefix": "test-v",
-      "tag": "test-v0.2.8",
-      "version": "0.2.8"
     },
     {
       "semver": {
@@ -1953,6 +1938,23 @@
       "prefix": "test-v",
       "tag": "test-v0.5.1",
       "version": "0.5.1"
+    }
+  ],
+  "test-v0.8": [
+    {
+      "semver": {
+        "raw": "0.8.0",
+        "major": 0,
+        "minor": 8,
+        "patch": 0,
+        "prerelease": [],
+        "build": [],
+        "version": "0.8.0"
+      },
+      "wholeVersion": "0.8.0undefined",
+      "prefix": "test-v0.8",
+      "tag": "test-v0.8",
+      "version": "0.8.0"
     }
   ]
 }
