@@ -1,0 +1,1958 @@
+{
+  "dev-v": [
+    {
+      "semver": {
+        "raw": "0.0.1",
+        "major": 0,
+        "minor": 0,
+        "patch": 1,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.1"
+      },
+      "wholeVersion": "0.0.1",
+      "prefix": "dev-v",
+      "tag": "dev-v0.0.1",
+      "version": "0.0.1"
+    },
+    {
+      "semver": {
+        "raw": "0.1.1",
+        "major": 0,
+        "minor": 1,
+        "patch": 1,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.1"
+      },
+      "wholeVersion": "0.1.1",
+      "prefix": "dev-v",
+      "tag": "dev-v0.1.1",
+      "version": "0.1.1"
+    },
+    {
+      "semver": {
+        "raw": "0.1.2",
+        "major": 0,
+        "minor": 1,
+        "patch": 2,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.2"
+      },
+      "wholeVersion": "0.1.2",
+      "prefix": "dev-v",
+      "tag": "dev-v0.1.2",
+      "version": "0.1.2"
+    },
+    {
+      "semver": {
+        "raw": "0.1.3",
+        "major": 0,
+        "minor": 1,
+        "patch": 3,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.3"
+      },
+      "wholeVersion": "0.1.3",
+      "prefix": "dev-v",
+      "tag": "dev-v0.1.3",
+      "version": "0.1.3"
+    }
+  ],
+  "prod-v": [
+    {
+      "semver": {
+        "raw": "0.1.0",
+        "major": 0,
+        "minor": 1,
+        "patch": 0,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.0"
+      },
+      "wholeVersion": "0.1.0",
+      "prefix": "prod-v",
+      "tag": "prod-v0.1.0",
+      "version": "0.1.0"
+    },
+    {
+      "semver": {
+        "raw": "0.1.1",
+        "major": 0,
+        "minor": 1,
+        "patch": 1,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.1"
+      },
+      "wholeVersion": "0.1.1",
+      "prefix": "prod-v",
+      "tag": "prod-v0.1.1",
+      "version": "0.1.1"
+    },
+    {
+      "semver": {
+        "raw": "0.1.2",
+        "major": 0,
+        "minor": 1,
+        "patch": 2,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.2"
+      },
+      "wholeVersion": "0.1.2",
+      "prefix": "prod-v",
+      "tag": "prod-v0.1.2",
+      "version": "0.1.2"
+    },
+    {
+      "semver": {
+        "raw": "0.1.3",
+        "major": 0,
+        "minor": 1,
+        "patch": 3,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.3"
+      },
+      "wholeVersion": "0.1.3-alpha",
+      "prefix": "prod-v",
+      "tag": "prod-v0.1.3-alpha",
+      "version": "0.1.3"
+    },
+    {
+      "semver": {
+        "raw": "0.1.4",
+        "major": 0,
+        "minor": 1,
+        "patch": 4,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.4"
+      },
+      "wholeVersion": "0.1.4-beta",
+      "prefix": "prod-v",
+      "tag": "prod-v0.1.4-beta",
+      "version": "0.1.4"
+    },
+    {
+      "semver": {
+        "raw": "0.1.5",
+        "major": 0,
+        "minor": 1,
+        "patch": 5,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.5"
+      },
+      "wholeVersion": "0.1.5",
+      "prefix": "prod-v",
+      "tag": "prod-v0.1.5",
+      "version": "0.1.5"
+    },
+    {
+      "semver": {
+        "raw": "0.1.6",
+        "major": 0,
+        "minor": 1,
+        "patch": 6,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.6"
+      },
+      "wholeVersion": "0.1.6-beta",
+      "prefix": "prod-v",
+      "tag": "prod-v0.1.6-beta",
+      "version": "0.1.6"
+    },
+    {
+      "semver": {
+        "raw": "0.1.7",
+        "major": 0,
+        "minor": 1,
+        "patch": 7,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.7"
+      },
+      "wholeVersion": "0.1.7",
+      "prefix": "prod-v",
+      "tag": "prod-v0.1.7",
+      "version": "0.1.7"
+    },
+    {
+      "semver": {
+        "raw": "0.1.8",
+        "major": 0,
+        "minor": 1,
+        "patch": 8,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.8"
+      },
+      "wholeVersion": "0.1.8",
+      "prefix": "prod-v",
+      "tag": "prod-v0.1.8",
+      "version": "0.1.8"
+    },
+    {
+      "semver": {
+        "raw": "0.1.9",
+        "major": 0,
+        "minor": 1,
+        "patch": 9,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.9"
+      },
+      "wholeVersion": "0.1.9",
+      "prefix": "prod-v",
+      "tag": "prod-v0.1.9",
+      "version": "0.1.9"
+    },
+    {
+      "semver": {
+        "raw": "0.2.0",
+        "major": 0,
+        "minor": 2,
+        "patch": 0,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.0"
+      },
+      "wholeVersion": "0.2.0",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.0",
+      "version": "0.2.0"
+    },
+    {
+      "semver": {
+        "raw": "0.2.1",
+        "major": 0,
+        "minor": 2,
+        "patch": 1,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.1"
+      },
+      "wholeVersion": "0.2.1",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.1",
+      "version": "0.2.1"
+    },
+    {
+      "semver": {
+        "raw": "0.2.2",
+        "major": 0,
+        "minor": 2,
+        "patch": 2,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.2"
+      },
+      "wholeVersion": "0.2.2",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.2",
+      "version": "0.2.2"
+    },
+    {
+      "semver": {
+        "raw": "0.2.3",
+        "major": 0,
+        "minor": 2,
+        "patch": 3,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.3"
+      },
+      "wholeVersion": "0.2.3",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.3",
+      "version": "0.2.3"
+    },
+    {
+      "semver": {
+        "raw": "0.2.4",
+        "major": 0,
+        "minor": 2,
+        "patch": 4,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.4"
+      },
+      "wholeVersion": "0.2.4",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.4",
+      "version": "0.2.4"
+    },
+    {
+      "semver": {
+        "raw": "0.2.5",
+        "major": 0,
+        "minor": 2,
+        "patch": 5,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.5"
+      },
+      "wholeVersion": "0.2.5",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.5",
+      "version": "0.2.5"
+    },
+    {
+      "semver": {
+        "raw": "0.2.6",
+        "major": 0,
+        "minor": 2,
+        "patch": 6,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.6"
+      },
+      "wholeVersion": "0.2.6",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.6",
+      "version": "0.2.6"
+    },
+    {
+      "semver": {
+        "raw": "0.2.7",
+        "major": 0,
+        "minor": 2,
+        "patch": 7,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.7"
+      },
+      "wholeVersion": "0.2.7",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.7",
+      "version": "0.2.7"
+    },
+    {
+      "semver": {
+        "raw": "0.2.8",
+        "major": 0,
+        "minor": 2,
+        "patch": 8,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.8"
+      },
+      "wholeVersion": "0.2.8",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.8",
+      "version": "0.2.8"
+    },
+    {
+      "semver": {
+        "raw": "0.2.9",
+        "major": 0,
+        "minor": 2,
+        "patch": 9,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.9"
+      },
+      "wholeVersion": "0.2.9",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.9",
+      "version": "0.2.9"
+    },
+    {
+      "semver": {
+        "raw": "0.2.10",
+        "major": 0,
+        "minor": 2,
+        "patch": 10,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.10"
+      },
+      "wholeVersion": "0.2.10",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.10",
+      "version": "0.2.10"
+    },
+    {
+      "semver": {
+        "raw": "0.2.11",
+        "major": 0,
+        "minor": 2,
+        "patch": 11,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.11"
+      },
+      "wholeVersion": "0.2.11",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.11",
+      "version": "0.2.11"
+    },
+    {
+      "semver": {
+        "raw": "0.2.12",
+        "major": 0,
+        "minor": 2,
+        "patch": 12,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.12"
+      },
+      "wholeVersion": "0.2.12",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.12",
+      "version": "0.2.12"
+    },
+    {
+      "semver": {
+        "raw": "0.2.13",
+        "major": 0,
+        "minor": 2,
+        "patch": 13,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.13"
+      },
+      "wholeVersion": "0.2.13",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.13",
+      "version": "0.2.13"
+    },
+    {
+      "semver": {
+        "raw": "0.2.14",
+        "major": 0,
+        "minor": 2,
+        "patch": 14,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.14"
+      },
+      "wholeVersion": "0.2.14",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.14",
+      "version": "0.2.14"
+    },
+    {
+      "semver": {
+        "raw": "0.2.15",
+        "major": 0,
+        "minor": 2,
+        "patch": 15,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.15"
+      },
+      "wholeVersion": "0.2.15",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.15",
+      "version": "0.2.15"
+    },
+    {
+      "semver": {
+        "raw": "0.2.16",
+        "major": 0,
+        "minor": 2,
+        "patch": 16,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.16"
+      },
+      "wholeVersion": "0.2.16",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.16",
+      "version": "0.2.16"
+    },
+    {
+      "semver": {
+        "raw": "0.2.17",
+        "major": 0,
+        "minor": 2,
+        "patch": 17,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.17"
+      },
+      "wholeVersion": "0.2.17",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.17",
+      "version": "0.2.17"
+    },
+    {
+      "semver": {
+        "raw": "0.2.18",
+        "major": 0,
+        "minor": 2,
+        "patch": 18,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.18"
+      },
+      "wholeVersion": "0.2.18",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.18",
+      "version": "0.2.18"
+    },
+    {
+      "semver": {
+        "raw": "0.2.19",
+        "major": 0,
+        "minor": 2,
+        "patch": 19,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.19"
+      },
+      "wholeVersion": "0.2.19",
+      "prefix": "prod-v",
+      "tag": "prod-v0.2.19",
+      "version": "0.2.19"
+    },
+    {
+      "semver": {
+        "raw": "0.3.0",
+        "major": 0,
+        "minor": 3,
+        "patch": 0,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.0"
+      },
+      "wholeVersion": "0.3.0",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.0",
+      "version": "0.3.0"
+    },
+    {
+      "semver": {
+        "raw": "0.3.1",
+        "major": 0,
+        "minor": 3,
+        "patch": 1,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.1"
+      },
+      "wholeVersion": "0.3.1",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.1",
+      "version": "0.3.1"
+    },
+    {
+      "semver": {
+        "raw": "0.3.2",
+        "major": 0,
+        "minor": 3,
+        "patch": 2,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.2"
+      },
+      "wholeVersion": "0.3.2",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.2",
+      "version": "0.3.2"
+    },
+    {
+      "semver": {
+        "raw": "0.3.3",
+        "major": 0,
+        "minor": 3,
+        "patch": 3,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.3"
+      },
+      "wholeVersion": "0.3.3",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.3",
+      "version": "0.3.3"
+    },
+    {
+      "semver": {
+        "raw": "0.3.4",
+        "major": 0,
+        "minor": 3,
+        "patch": 4,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.4"
+      },
+      "wholeVersion": "0.3.4",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.4",
+      "version": "0.3.4"
+    },
+    {
+      "semver": {
+        "raw": "0.3.5",
+        "major": 0,
+        "minor": 3,
+        "patch": 5,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.5"
+      },
+      "wholeVersion": "0.3.5",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.5",
+      "version": "0.3.5"
+    },
+    {
+      "semver": {
+        "raw": "0.3.6",
+        "major": 0,
+        "minor": 3,
+        "patch": 6,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.6"
+      },
+      "wholeVersion": "0.3.6",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.6",
+      "version": "0.3.6"
+    },
+    {
+      "semver": {
+        "raw": "0.3.7",
+        "major": 0,
+        "minor": 3,
+        "patch": 7,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.7"
+      },
+      "wholeVersion": "0.3.7",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.7",
+      "version": "0.3.7"
+    },
+    {
+      "semver": {
+        "raw": "0.3.8",
+        "major": 0,
+        "minor": 3,
+        "patch": 8,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.8"
+      },
+      "wholeVersion": "0.3.8",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.8",
+      "version": "0.3.8"
+    },
+    {
+      "semver": {
+        "raw": "0.3.9",
+        "major": 0,
+        "minor": 3,
+        "patch": 9,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.9"
+      },
+      "wholeVersion": "0.3.9",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.9",
+      "version": "0.3.9"
+    },
+    {
+      "semver": {
+        "raw": "0.3.10",
+        "major": 0,
+        "minor": 3,
+        "patch": 10,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.10"
+      },
+      "wholeVersion": "0.3.10",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.10",
+      "version": "0.3.10"
+    },
+    {
+      "semver": {
+        "raw": "0.3.11",
+        "major": 0,
+        "minor": 3,
+        "patch": 11,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.11"
+      },
+      "wholeVersion": "0.3.11",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.11",
+      "version": "0.3.11"
+    },
+    {
+      "semver": {
+        "raw": "0.3.12",
+        "major": 0,
+        "minor": 3,
+        "patch": 12,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.12"
+      },
+      "wholeVersion": "0.3.12",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.12",
+      "version": "0.3.12"
+    },
+    {
+      "semver": {
+        "raw": "0.3.13",
+        "major": 0,
+        "minor": 3,
+        "patch": 13,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.13"
+      },
+      "wholeVersion": "0.3.13",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.13",
+      "version": "0.3.13"
+    },
+    {
+      "semver": {
+        "raw": "0.3.14",
+        "major": 0,
+        "minor": 3,
+        "patch": 14,
+        "prerelease": [],
+        "build": [],
+        "version": "0.3.14"
+      },
+      "wholeVersion": "0.3.14",
+      "prefix": "prod-v",
+      "tag": "prod-v0.3.14",
+      "version": "0.3.14"
+    },
+    {
+      "semver": {
+        "raw": "0.4.0",
+        "major": 0,
+        "minor": 4,
+        "patch": 0,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.0"
+      },
+      "wholeVersion": "0.4.0",
+      "prefix": "prod-v",
+      "tag": "prod-v0.4.0",
+      "version": "0.4.0"
+    },
+    {
+      "semver": {
+        "raw": "0.4.1",
+        "major": 0,
+        "minor": 4,
+        "patch": 1,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.1"
+      },
+      "wholeVersion": "0.4.1",
+      "prefix": "prod-v",
+      "tag": "prod-v0.4.1",
+      "version": "0.4.1"
+    },
+    {
+      "semver": {
+        "raw": "0.4.2",
+        "major": 0,
+        "minor": 4,
+        "patch": 2,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.2"
+      },
+      "wholeVersion": "0.4.2",
+      "prefix": "prod-v",
+      "tag": "prod-v0.4.2",
+      "version": "0.4.2"
+    }
+  ],
+  "test-v": [
+    {
+      "semver": {
+        "raw": "0.0.0",
+        "major": 0,
+        "minor": 0,
+        "patch": 0,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.0"
+      },
+      "wholeVersion": "0.0.0",
+      "prefix": "test-v",
+      "tag": "test-v0.0.0",
+      "version": "0.0.0"
+    },
+    {
+      "semver": {
+        "raw": "0.0.0",
+        "major": 0,
+        "minor": 0,
+        "patch": 0,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.0"
+      },
+      "wholeVersion": "0.0.0^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.0^{}",
+      "version": "0.0.0"
+    },
+    {
+      "semver": {
+        "raw": "0.0.1",
+        "major": 0,
+        "minor": 0,
+        "patch": 1,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.1"
+      },
+      "wholeVersion": "0.0.1",
+      "prefix": "test-v",
+      "tag": "test-v0.0.1",
+      "version": "0.0.1"
+    },
+    {
+      "semver": {
+        "raw": "0.0.1",
+        "major": 0,
+        "minor": 0,
+        "patch": 1,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.1"
+      },
+      "wholeVersion": "0.0.1^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.1^{}",
+      "version": "0.0.1"
+    },
+    {
+      "semver": {
+        "raw": "0.0.2",
+        "major": 0,
+        "minor": 0,
+        "patch": 2,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.2"
+      },
+      "wholeVersion": "0.0.2^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.2^{}",
+      "version": "0.0.2"
+    },
+    {
+      "semver": {
+        "raw": "0.0.2",
+        "major": 0,
+        "minor": 0,
+        "patch": 2,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.2"
+      },
+      "wholeVersion": "0.0.2",
+      "prefix": "test-v",
+      "tag": "test-v0.0.2",
+      "version": "0.0.2"
+    },
+    {
+      "semver": {
+        "raw": "0.0.3",
+        "major": 0,
+        "minor": 0,
+        "patch": 3,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.3"
+      },
+      "wholeVersion": "0.0.3^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.3^{}",
+      "version": "0.0.3"
+    },
+    {
+      "semver": {
+        "raw": "0.0.3",
+        "major": 0,
+        "minor": 0,
+        "patch": 3,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.3"
+      },
+      "wholeVersion": "0.0.3",
+      "prefix": "test-v",
+      "tag": "test-v0.0.3",
+      "version": "0.0.3"
+    },
+    {
+      "semver": {
+        "raw": "0.0.4",
+        "major": 0,
+        "minor": 0,
+        "patch": 4,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.4"
+      },
+      "wholeVersion": "0.0.4^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.4^{}",
+      "version": "0.0.4"
+    },
+    {
+      "semver": {
+        "raw": "0.0.4",
+        "major": 0,
+        "minor": 0,
+        "patch": 4,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.4"
+      },
+      "wholeVersion": "0.0.4",
+      "prefix": "test-v",
+      "tag": "test-v0.0.4",
+      "version": "0.0.4"
+    },
+    {
+      "semver": {
+        "raw": "0.0.5",
+        "major": 0,
+        "minor": 0,
+        "patch": 5,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.5"
+      },
+      "wholeVersion": "0.0.5",
+      "prefix": "test-v",
+      "tag": "test-v0.0.5",
+      "version": "0.0.5"
+    },
+    {
+      "semver": {
+        "raw": "0.0.5",
+        "major": 0,
+        "minor": 0,
+        "patch": 5,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.5"
+      },
+      "wholeVersion": "0.0.5^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.5^{}",
+      "version": "0.0.5"
+    },
+    {
+      "semver": {
+        "raw": "0.0.6",
+        "major": 0,
+        "minor": 0,
+        "patch": 6,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.6"
+      },
+      "wholeVersion": "0.0.6",
+      "prefix": "test-v",
+      "tag": "test-v0.0.6",
+      "version": "0.0.6"
+    },
+    {
+      "semver": {
+        "raw": "0.0.6",
+        "major": 0,
+        "minor": 0,
+        "patch": 6,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.6"
+      },
+      "wholeVersion": "0.0.6^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.6^{}",
+      "version": "0.0.6"
+    },
+    {
+      "semver": {
+        "raw": "0.0.7",
+        "major": 0,
+        "minor": 0,
+        "patch": 7,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.7"
+      },
+      "wholeVersion": "0.0.7^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.7^{}",
+      "version": "0.0.7"
+    },
+    {
+      "semver": {
+        "raw": "0.0.7",
+        "major": 0,
+        "minor": 0,
+        "patch": 7,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.7"
+      },
+      "wholeVersion": "0.0.7",
+      "prefix": "test-v",
+      "tag": "test-v0.0.7",
+      "version": "0.0.7"
+    },
+    {
+      "semver": {
+        "raw": "0.0.8",
+        "major": 0,
+        "minor": 0,
+        "patch": 8,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.8"
+      },
+      "wholeVersion": "0.0.8",
+      "prefix": "test-v",
+      "tag": "test-v0.0.8",
+      "version": "0.0.8"
+    },
+    {
+      "semver": {
+        "raw": "0.0.8",
+        "major": 0,
+        "minor": 0,
+        "patch": 8,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.8"
+      },
+      "wholeVersion": "0.0.8^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.8^{}",
+      "version": "0.0.8"
+    },
+    {
+      "semver": {
+        "raw": "0.0.9",
+        "major": 0,
+        "minor": 0,
+        "patch": 9,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.9"
+      },
+      "wholeVersion": "0.0.9^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.9^{}",
+      "version": "0.0.9"
+    },
+    {
+      "semver": {
+        "raw": "0.0.9",
+        "major": 0,
+        "minor": 0,
+        "patch": 9,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.9"
+      },
+      "wholeVersion": "0.0.9",
+      "prefix": "test-v",
+      "tag": "test-v0.0.9",
+      "version": "0.0.9"
+    },
+    {
+      "semver": {
+        "raw": "0.0.10",
+        "major": 0,
+        "minor": 0,
+        "patch": 10,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.10"
+      },
+      "wholeVersion": "0.0.10^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.10^{}",
+      "version": "0.0.10"
+    },
+    {
+      "semver": {
+        "raw": "0.0.10",
+        "major": 0,
+        "minor": 0,
+        "patch": 10,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.10"
+      },
+      "wholeVersion": "0.0.10",
+      "prefix": "test-v",
+      "tag": "test-v0.0.10",
+      "version": "0.0.10"
+    },
+    {
+      "semver": {
+        "raw": "0.0.11",
+        "major": 0,
+        "minor": 0,
+        "patch": 11,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.11"
+      },
+      "wholeVersion": "0.0.11",
+      "prefix": "test-v",
+      "tag": "test-v0.0.11",
+      "version": "0.0.11"
+    },
+    {
+      "semver": {
+        "raw": "0.0.11",
+        "major": 0,
+        "minor": 0,
+        "patch": 11,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.11"
+      },
+      "wholeVersion": "0.0.11^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.11^{}",
+      "version": "0.0.11"
+    },
+    {
+      "semver": {
+        "raw": "0.0.12",
+        "major": 0,
+        "minor": 0,
+        "patch": 12,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.12"
+      },
+      "wholeVersion": "0.0.12",
+      "prefix": "test-v",
+      "tag": "test-v0.0.12",
+      "version": "0.0.12"
+    },
+    {
+      "semver": {
+        "raw": "0.0.12",
+        "major": 0,
+        "minor": 0,
+        "patch": 12,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.12"
+      },
+      "wholeVersion": "0.0.12^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.12^{}",
+      "version": "0.0.12"
+    },
+    {
+      "semver": {
+        "raw": "0.0.13",
+        "major": 0,
+        "minor": 0,
+        "patch": 13,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.13"
+      },
+      "wholeVersion": "0.0.13^{}",
+      "prefix": "test-v",
+      "tag": "test-v0.0.13^{}",
+      "version": "0.0.13"
+    },
+    {
+      "semver": {
+        "raw": "0.0.13",
+        "major": 0,
+        "minor": 0,
+        "patch": 13,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.13"
+      },
+      "wholeVersion": "0.0.13",
+      "prefix": "test-v",
+      "tag": "test-v0.0.13",
+      "version": "0.0.13"
+    },
+    {
+      "semver": {
+        "raw": "0.0.14",
+        "major": 0,
+        "minor": 0,
+        "patch": 14,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.14"
+      },
+      "wholeVersion": "0.0.14",
+      "prefix": "test-v",
+      "tag": "test-v0.0.14",
+      "version": "0.0.14"
+    },
+    {
+      "semver": {
+        "raw": "0.0.15",
+        "major": 0,
+        "minor": 0,
+        "patch": 15,
+        "prerelease": [],
+        "build": [],
+        "version": "0.0.15"
+      },
+      "wholeVersion": "0.0.15",
+      "prefix": "test-v",
+      "tag": "test-v0.0.15",
+      "version": "0.0.15"
+    },
+    {
+      "semver": {
+        "raw": "0.1.0",
+        "major": 0,
+        "minor": 1,
+        "patch": 0,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.0"
+      },
+      "wholeVersion": "0.1.0",
+      "prefix": "test-v",
+      "tag": "test-v0.1.0",
+      "version": "0.1.0"
+    },
+    {
+      "semver": {
+        "raw": "0.1.1",
+        "major": 0,
+        "minor": 1,
+        "patch": 1,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.1"
+      },
+      "wholeVersion": "0.1.1",
+      "prefix": "test-v",
+      "tag": "test-v0.1.1",
+      "version": "0.1.1"
+    },
+    {
+      "semver": {
+        "raw": "0.1.2",
+        "major": 0,
+        "minor": 1,
+        "patch": 2,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.2"
+      },
+      "wholeVersion": "0.1.2",
+      "prefix": "test-v",
+      "tag": "test-v0.1.2",
+      "version": "0.1.2"
+    },
+    {
+      "semver": {
+        "raw": "0.1.3",
+        "major": 0,
+        "minor": 1,
+        "patch": 3,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.3"
+      },
+      "wholeVersion": "0.1.3",
+      "prefix": "test-v",
+      "tag": "test-v0.1.3",
+      "version": "0.1.3"
+    },
+    {
+      "semver": {
+        "raw": "0.1.4",
+        "major": 0,
+        "minor": 1,
+        "patch": 4,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.4"
+      },
+      "wholeVersion": "0.1.4",
+      "prefix": "test-v",
+      "tag": "test-v0.1.4",
+      "version": "0.1.4"
+    },
+    {
+      "semver": {
+        "raw": "0.1.5",
+        "major": 0,
+        "minor": 1,
+        "patch": 5,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.5"
+      },
+      "wholeVersion": "0.1.5",
+      "prefix": "test-v",
+      "tag": "test-v0.1.5",
+      "version": "0.1.5"
+    },
+    {
+      "semver": {
+        "raw": "0.1.6",
+        "major": 0,
+        "minor": 1,
+        "patch": 6,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.6"
+      },
+      "wholeVersion": "0.1.6",
+      "prefix": "test-v",
+      "tag": "test-v0.1.6",
+      "version": "0.1.6"
+    },
+    {
+      "semver": {
+        "raw": "0.1.7",
+        "major": 0,
+        "minor": 1,
+        "patch": 7,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.7"
+      },
+      "wholeVersion": "0.1.7",
+      "prefix": "test-v",
+      "tag": "test-v0.1.7",
+      "version": "0.1.7"
+    },
+    {
+      "semver": {
+        "raw": "0.1.8",
+        "major": 0,
+        "minor": 1,
+        "patch": 8,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.8"
+      },
+      "wholeVersion": "0.1.8",
+      "prefix": "test-v",
+      "tag": "test-v0.1.8",
+      "version": "0.1.8"
+    },
+    {
+      "semver": {
+        "raw": "0.1.9",
+        "major": 0,
+        "minor": 1,
+        "patch": 9,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.9"
+      },
+      "wholeVersion": "0.1.9",
+      "prefix": "test-v",
+      "tag": "test-v0.1.9",
+      "version": "0.1.9"
+    },
+    {
+      "semver": {
+        "raw": "0.1.10",
+        "major": 0,
+        "minor": 1,
+        "patch": 10,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.10"
+      },
+      "wholeVersion": "0.1.10",
+      "prefix": "test-v",
+      "tag": "test-v0.1.10",
+      "version": "0.1.10"
+    },
+    {
+      "semver": {
+        "raw": "0.1.11",
+        "major": 0,
+        "minor": 1,
+        "patch": 11,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.11"
+      },
+      "wholeVersion": "0.1.11",
+      "prefix": "test-v",
+      "tag": "test-v0.1.11",
+      "version": "0.1.11"
+    },
+    {
+      "semver": {
+        "raw": "0.1.12",
+        "major": 0,
+        "minor": 1,
+        "patch": 12,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.12"
+      },
+      "wholeVersion": "0.1.12",
+      "prefix": "test-v",
+      "tag": "test-v0.1.12",
+      "version": "0.1.12"
+    },
+    {
+      "semver": {
+        "raw": "0.1.13",
+        "major": 0,
+        "minor": 1,
+        "patch": 13,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.13"
+      },
+      "wholeVersion": "0.1.13",
+      "prefix": "test-v",
+      "tag": "test-v0.1.13",
+      "version": "0.1.13"
+    },
+    {
+      "semver": {
+        "raw": "0.1.14",
+        "major": 0,
+        "minor": 1,
+        "patch": 14,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.14"
+      },
+      "wholeVersion": "0.1.14",
+      "prefix": "test-v",
+      "tag": "test-v0.1.14",
+      "version": "0.1.14"
+    },
+    {
+      "semver": {
+        "raw": "0.1.15",
+        "major": 0,
+        "minor": 1,
+        "patch": 15,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.15"
+      },
+      "wholeVersion": "0.1.15",
+      "prefix": "test-v",
+      "tag": "test-v0.1.15",
+      "version": "0.1.15"
+    },
+    {
+      "semver": {
+        "raw": "0.1.16",
+        "major": 0,
+        "minor": 1,
+        "patch": 16,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.16"
+      },
+      "wholeVersion": "0.1.16",
+      "prefix": "test-v",
+      "tag": "test-v0.1.16",
+      "version": "0.1.16"
+    },
+    {
+      "semver": {
+        "raw": "0.1.17",
+        "major": 0,
+        "minor": 1,
+        "patch": 17,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.17"
+      },
+      "wholeVersion": "0.1.17",
+      "prefix": "test-v",
+      "tag": "test-v0.1.17",
+      "version": "0.1.17"
+    },
+    {
+      "semver": {
+        "raw": "0.1.18",
+        "major": 0,
+        "minor": 1,
+        "patch": 18,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.18"
+      },
+      "wholeVersion": "0.1.18",
+      "prefix": "test-v",
+      "tag": "test-v0.1.18",
+      "version": "0.1.18"
+    },
+    {
+      "semver": {
+        "raw": "0.1.19",
+        "major": 0,
+        "minor": 1,
+        "patch": 19,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.19"
+      },
+      "wholeVersion": "0.1.19",
+      "prefix": "test-v",
+      "tag": "test-v0.1.19",
+      "version": "0.1.19"
+    },
+    {
+      "semver": {
+        "raw": "0.1.20",
+        "major": 0,
+        "minor": 1,
+        "patch": 20,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.20"
+      },
+      "wholeVersion": "0.1.20",
+      "prefix": "test-v",
+      "tag": "test-v0.1.20",
+      "version": "0.1.20"
+    },
+    {
+      "semver": {
+        "raw": "0.1.21",
+        "major": 0,
+        "minor": 1,
+        "patch": 21,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.21"
+      },
+      "wholeVersion": "0.1.21",
+      "prefix": "test-v",
+      "tag": "test-v0.1.21",
+      "version": "0.1.21"
+    },
+    {
+      "semver": {
+        "raw": "0.1.22",
+        "major": 0,
+        "minor": 1,
+        "patch": 22,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.22"
+      },
+      "wholeVersion": "0.1.22",
+      "prefix": "test-v",
+      "tag": "test-v0.1.22",
+      "version": "0.1.22"
+    },
+    {
+      "semver": {
+        "raw": "0.1.23",
+        "major": 0,
+        "minor": 1,
+        "patch": 23,
+        "prerelease": [],
+        "build": [],
+        "version": "0.1.23"
+      },
+      "wholeVersion": "0.1.23",
+      "prefix": "test-v",
+      "tag": "test-v0.1.23",
+      "version": "0.1.23"
+    },
+    {
+      "semver": {
+        "raw": "0.2.0",
+        "major": 0,
+        "minor": 2,
+        "patch": 0,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.0"
+      },
+      "wholeVersion": "0.2.0",
+      "prefix": "test-v",
+      "tag": "test-v0.2.0",
+      "version": "0.2.0"
+    },
+    {
+      "semver": {
+        "raw": "0.2.1",
+        "major": 0,
+        "minor": 2,
+        "patch": 1,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.1"
+      },
+      "wholeVersion": "0.2.1",
+      "prefix": "test-v",
+      "tag": "test-v0.2.1",
+      "version": "0.2.1"
+    },
+    {
+      "semver": {
+        "raw": "0.2.2",
+        "major": 0,
+        "minor": 2,
+        "patch": 2,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.2"
+      },
+      "wholeVersion": "0.2.2",
+      "prefix": "test-v",
+      "tag": "test-v0.2.2",
+      "version": "0.2.2"
+    },
+    {
+      "semver": {
+        "raw": "0.2.3",
+        "major": 0,
+        "minor": 2,
+        "patch": 3,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.3"
+      },
+      "wholeVersion": "0.2.3",
+      "prefix": "test-v",
+      "tag": "test-v0.2.3",
+      "version": "0.2.3"
+    },
+    {
+      "semver": {
+        "raw": "0.2.4",
+        "major": 0,
+        "minor": 2,
+        "patch": 4,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.4"
+      },
+      "wholeVersion": "0.2.4",
+      "prefix": "test-v",
+      "tag": "test-v0.2.4",
+      "version": "0.2.4"
+    },
+    {
+      "semver": {
+        "raw": "0.2.5",
+        "major": 0,
+        "minor": 2,
+        "patch": 5,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.5"
+      },
+      "wholeVersion": "0.2.5",
+      "prefix": "test-v",
+      "tag": "test-v0.2.5",
+      "version": "0.2.5"
+    },
+    {
+      "semver": {
+        "raw": "0.2.6",
+        "major": 0,
+        "minor": 2,
+        "patch": 6,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.6"
+      },
+      "wholeVersion": "0.2.6",
+      "prefix": "test-v",
+      "tag": "test-v0.2.6",
+      "version": "0.2.6"
+    },
+    {
+      "semver": {
+        "raw": "0.2.7",
+        "major": 0,
+        "minor": 2,
+        "patch": 7,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.7"
+      },
+      "wholeVersion": "0.2.7",
+      "prefix": "test-v",
+      "tag": "test-v0.2.7",
+      "version": "0.2.7"
+    },
+    {
+      "semver": {
+        "raw": "0.2.8",
+        "major": 0,
+        "minor": 2,
+        "patch": 8,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.8"
+      },
+      "wholeVersion": "0.2.8",
+      "prefix": "test-v",
+      "tag": "test-v0.2.8",
+      "version": "0.2.8"
+    },
+    {
+      "semver": {
+        "raw": "0.2.9",
+        "major": 0,
+        "minor": 2,
+        "patch": 9,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.9"
+      },
+      "wholeVersion": "0.2.9",
+      "prefix": "test-v",
+      "tag": "test-v0.2.9",
+      "version": "0.2.9"
+    },
+    {
+      "semver": {
+        "raw": "0.2.10",
+        "major": 0,
+        "minor": 2,
+        "patch": 10,
+        "prerelease": [],
+        "build": [],
+        "version": "0.2.10"
+      },
+      "wholeVersion": "0.2.10",
+      "prefix": "test-v",
+      "tag": "test-v0.2.10",
+      "version": "0.2.10"
+    },
+    {
+      "semver": {
+        "raw": "0.4.0",
+        "major": 0,
+        "minor": 4,
+        "patch": 0,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.0"
+      },
+      "wholeVersion": "0.4.0",
+      "prefix": "test-v",
+      "tag": "test-v0.4.0",
+      "version": "0.4.0"
+    },
+    {
+      "semver": {
+        "raw": "0.4.1",
+        "major": 0,
+        "minor": 4,
+        "patch": 1,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.1"
+      },
+      "wholeVersion": "0.4.1",
+      "prefix": "test-v",
+      "tag": "test-v0.4.1",
+      "version": "0.4.1"
+    },
+    {
+      "semver": {
+        "raw": "0.4.2",
+        "major": 0,
+        "minor": 4,
+        "patch": 2,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.2"
+      },
+      "wholeVersion": "0.4.2",
+      "prefix": "test-v",
+      "tag": "test-v0.4.2",
+      "version": "0.4.2"
+    },
+    {
+      "semver": {
+        "raw": "0.4.3",
+        "major": 0,
+        "minor": 4,
+        "patch": 3,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.3"
+      },
+      "wholeVersion": "0.4.3",
+      "prefix": "test-v",
+      "tag": "test-v0.4.3",
+      "version": "0.4.3"
+    },
+    {
+      "semver": {
+        "raw": "0.4.4",
+        "major": 0,
+        "minor": 4,
+        "patch": 4,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.4"
+      },
+      "wholeVersion": "0.4.4",
+      "prefix": "test-v",
+      "tag": "test-v0.4.4",
+      "version": "0.4.4"
+    },
+    {
+      "semver": {
+        "raw": "0.4.5",
+        "major": 0,
+        "minor": 4,
+        "patch": 5,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.5"
+      },
+      "wholeVersion": "0.4.5",
+      "prefix": "test-v",
+      "tag": "test-v0.4.5",
+      "version": "0.4.5"
+    },
+    {
+      "semver": {
+        "raw": "0.4.6",
+        "major": 0,
+        "minor": 4,
+        "patch": 6,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.6"
+      },
+      "wholeVersion": "0.4.6",
+      "prefix": "test-v",
+      "tag": "test-v0.4.6",
+      "version": "0.4.6"
+    },
+    {
+      "semver": {
+        "raw": "0.4.7",
+        "major": 0,
+        "minor": 4,
+        "patch": 7,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.7"
+      },
+      "wholeVersion": "0.4.7",
+      "prefix": "test-v",
+      "tag": "test-v0.4.7",
+      "version": "0.4.7"
+    },
+    {
+      "semver": {
+        "raw": "0.4.8",
+        "major": 0,
+        "minor": 4,
+        "patch": 8,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.8"
+      },
+      "wholeVersion": "0.4.8",
+      "prefix": "test-v",
+      "tag": "test-v0.4.8",
+      "version": "0.4.8"
+    },
+    {
+      "semver": {
+        "raw": "0.4.9",
+        "major": 0,
+        "minor": 4,
+        "patch": 9,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.9"
+      },
+      "wholeVersion": "0.4.9",
+      "prefix": "test-v",
+      "tag": "test-v0.4.9",
+      "version": "0.4.9"
+    },
+    {
+      "semver": {
+        "raw": "0.4.10",
+        "major": 0,
+        "minor": 4,
+        "patch": 10,
+        "prerelease": [],
+        "build": [],
+        "version": "0.4.10"
+      },
+      "wholeVersion": "0.4.10",
+      "prefix": "test-v",
+      "tag": "test-v0.4.10",
+      "version": "0.4.10"
+    },
+    {
+      "semver": {
+        "raw": "0.5.0",
+        "major": 0,
+        "minor": 5,
+        "patch": 0,
+        "prerelease": [],
+        "build": [],
+        "version": "0.5.0"
+      },
+      "wholeVersion": "0.5.0",
+      "prefix": "test-v",
+      "tag": "test-v0.5.0",
+      "version": "0.5.0"
+    },
+    {
+      "semver": {
+        "raw": "0.5.1",
+        "major": 0,
+        "minor": 5,
+        "patch": 1,
+        "prerelease": [],
+        "build": [],
+        "version": "0.5.1"
+      },
+      "wholeVersion": "0.5.1",
+      "prefix": "test-v",
+      "tag": "test-v0.5.1",
+      "version": "0.5.1"
+    }
+  ]
+}

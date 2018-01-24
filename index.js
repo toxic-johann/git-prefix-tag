@@ -19,46 +19,49 @@ class Helper {
 
       const tag = rawTag.match(/refs\/tags\/(.*)$/)[1];
 
-      const version = semver.coerce(tag);
+      const semverObj = semver.coerce(tag);
 
-      if (!version) return map;
+      if (!semverObj) return map;
 
-      const [ prefix, suffix ] = tag.split(version);
+      const [ prefix, suffix ] = tag.split(semverObj.raw);
 
       map[prefix] = map[prefix] || [];
 
       map[prefix].push({
-        version,
-        wholeVersion: version + suffix,
+        semver: semverObj,
+        wholeVersion: semverObj.raw + suffix,
         prefix,
         tag,
+        version: semverObj.raw,
       });
 
       return map;
     }, {});
 
-    Object.values(semverMap).forEach(arr => arr.sort((a, b) => (semver.gt(a.version, b.version) ? 1 : -1)));
+    Object.values(semverMap).forEach(arr => arr.sort((a, b) => (semver.gt(a.semver, b.semver) ? 1 : -1)));
 
     return semverMap;
   }
 
   getLatest(rawPrefix, {
+    semver = false,
     wholeVersion = false,
     withPrefix = false,
     all = false,
-  }) {
+  } = {}) {
     const prefix = this.getPrefix(rawPrefix);
 
     const tagsList = this.semverMap[prefix] || [];
 
     const obj = tagsList[tagsList.length - 1];
 
-    if (wholeVersion) return obj.wholeVersion;
+    if (semver) return obj.semver;
+    else if (wholeVersion) return obj.wholeVersion;
     else if (withPrefix) return obj.tag;
     else if (all) return obj;
 
-    return obj.semver;
+    return obj.version;
   }
 }
 
-module.exports = Helper;
+module.exports = new Helper();

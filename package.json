@@ -4,7 +4,8 @@
   "description": "get git tags with prefix",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage",
+    "lint": "eslint . --fix"
   },
   "repository": {
     "type": "git",
