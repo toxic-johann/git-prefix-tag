@@ -78,4 +78,13 @@ describe('base test', () => {
       expect(() => helper.getLatest(123)).toThrow('prefix must be RegExp or String, but not number');
     });
   });
+
+  describe('increase', () => {
+    test('normal use', () => {
+      expect(helper.increase('dev-v')).toBe('0.1.4');
+      expect(helper.increase('dev-v', 'minor')).toBe('0.2.0');
+      expect(helper.increase('dev-v', 'major')).toBe('1.0.0');
+      expect(helper.increase()).toBe(null);
+    });
+  });
 });

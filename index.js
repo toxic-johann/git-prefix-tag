@@ -91,6 +91,11 @@ class Helper {
 
     return obj.version;
   }
+
+  increase(prefix = '', type = 'patch') {
+    const latest_semver = this.getLatest(prefix, { semver: true });
+    return semver.inc(latest_semver, type);
+  }
 }
 
 module.exports = new Helper();
