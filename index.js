@@ -1,6 +1,7 @@
 const shell = require('shelljs');
 const semver = require('semver');
 const { isFunction, isRegExp, isString, isEmpty } = require('toxic-predicate-functions');
+require('core-js/fn/object');
 
 class Helper {
   getPrefix(rawPrefix) {
