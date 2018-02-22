@@ -1,6 +1,6 @@
 {
   "name": "git-prefix-tag",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "get git tags with prefix",
   "main": "index.js",
   "scripts": {
