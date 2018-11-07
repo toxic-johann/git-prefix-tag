@@ -1,5 +1,7 @@
 # git-prefix-tag
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/toxic-johann/git-prefix-tag.svg)](https://greenkeeper.io/)
+
 get git tags with prefix
 
 ## Install
