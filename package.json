@@ -30,7 +30,7 @@
     "toxic-predicate-functions": "^0.2.3"
   },
   "devDependencies": {
-    "eslint": "^5.8.0",
+    "eslint": "^6.5.1",
     "eslint-config-egg": "^7.1.0",
     "eslint-plugin-jest": "^22.0.0",
     "husky": "^3.0.0",
